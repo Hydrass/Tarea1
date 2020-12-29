@@ -1,0 +1,12 @@
+C:\Users\star-\source\repos\Ejercicios New Prof\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.exe
+C:\Users\star-\source\repos\Ejercicios New Prof\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.deps.json
+C:\Users\star-\source\repos\Ejercicios New Prof\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.runtimeconfig.json
+C:\Users\star-\source\repos\Ejercicios New Prof\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.runtimeconfig.dev.json
+C:\Users\star-\source\repos\Ejercicios New Prof\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.dll
+C:\Users\star-\source\repos\Ejercicios New Prof\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.pdb
+C:\Users\star-\source\repos\Ejercicios New Prof\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.AssemblyInfoInputs.cache
+C:\Users\star-\source\repos\Ejercicios New Prof\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.AssemblyInfo.cs
+C:\Users\star-\source\repos\Ejercicios New Prof\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\star-\source\repos\Ejercicios New Prof\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.dll
+C:\Users\star-\source\repos\Ejercicios New Prof\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.pdb
+C:\Users\star-\source\repos\Ejercicios New Prof\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.genruntimeconfig.cache
